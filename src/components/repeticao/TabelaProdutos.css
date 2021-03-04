@@ -1,0 +1,16 @@
+.TabelaProdutos table {
+    width:100%;
+}
+
+.TabelaProdutos thead {
+    background-color: seagreen;
+    color: white;
+}
+
+.TabelaProdutos .Par {
+    background-color: rgb(143, 175, 157);
+}
+
+.TabelaProdutos .Impar {
+    background-color: rgb(104, 136, 118);
+}
