@@ -1,0 +1,44 @@
+.Mega .ContainerLi{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.Mega h1{
+    margin: 1rem 0 0.5rem 0
+}
+
+.Mega h5{
+   margin: 0;
+}
+
+.Mega button {
+    font-size: 1.4rem;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+
+    color: white;
+    background-color:#BFF073;
+    padding: 0.5rem;
+}
+
+.ContainerLi li{
+    margin-left: 1rem;
+}
+
+div.Megabutton{
+    display: flex;
+    flex-direction: column;
+
+}
+
+div.MegaButton input{
+    width: 50px;
+    font-size: 1.4rem;
+}
+
+.MegaButton label{
+    margin-right: 0.5rem;
+    justify-content: center;
+}
